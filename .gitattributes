@@ -1,1 +1,9 @@
 *.bin filter=lfs diff=lfs merge=lfs -text
+*.gitattributes text
+*.go text
+*.heic text
+*.gitignore text
+*./main text
+*.md text
+*./LICENSE text
+*.ignore text
