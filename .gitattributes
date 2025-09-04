@@ -5,6 +5,7 @@
 *.sum !filter !diff !merge
 *.md !filter !diff !merge
 *.txt !filter !diff !merge
+*.sql !filter !diff !merge
 LICENSE !filter !diff !merge
 .gitignore !filter !diff !merge
 .gitattributes !filter !diff !merge
