@@ -1,3 +1,10 @@
 -- Fresh .sqldb file: raw SQL dump or schema snapshot
 -- Example placeholder content
 -- No executable statements required here
+
+-- You can add table definitions, indexes, etc. as needed
+-- For example:
+-- CREATE TABLE example (
+--     id SERIAL PRIMARY KEY,
+--     name TEXT NOT NULL
+-- );   

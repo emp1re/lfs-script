@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Example Bash script for /home/vsl/go/src/lfs-script/test/run
+
+echo "Running tests..."
+
+# Add your test commands below
+# Example:
+# go test ./...
+
+echo "All tests completed."
