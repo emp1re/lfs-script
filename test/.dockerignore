@@ -1,0 +1,9 @@
+# Files and folders to exclude from Docker build context
+.git
+*.log
+node_modules
+bin
+vendor
+.env
+Dockerfile
+docker-compose.yml

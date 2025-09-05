@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Simple run script
+set -euo pipefail
+
+echo "Running test app..."
+sleep 1
+echo "Done."
