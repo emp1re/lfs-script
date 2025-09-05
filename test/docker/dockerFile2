@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc75cf103076df6121c71708af6a11060288dbbaa24efc53cb95faca4266f005
-size 84
+FROM alpine:latest
+RUN apk --no-cache add bash
+COPY . /app
+WORKDIR /app
+CMD ["bash"]
+CMD ["./script.sh"]
