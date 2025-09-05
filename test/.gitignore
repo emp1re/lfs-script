@@ -1,9 +1,0 @@
-# Ignore common artifacts in this test directory
-*.log
-*.tmp
-.env
-.DS_Store
-/node_modules
-/vendor
-/bin
-/dist
